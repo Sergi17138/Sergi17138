@@ -2,12 +2,8 @@
 Now i'm focusing on React skills: NextJS, React Native...
 Don't look for me on social networks. I'm not present on them.
 
-#### Ultra-Senior skills on:
-- BASIC
-- QBASIC
-- Pascal
-- Cobol
+#### Personal skills on:
 
-| header 1 | header 2 | header 3 |
+| Ultra-Senior level | Senior Level | Junior Level |
 | ---      | ---      | ---      |
-| cell 1   | cell 2   | cell 3   |
+| BASIC    | DIY HOME | JS   |
