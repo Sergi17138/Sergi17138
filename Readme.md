@@ -7,10 +7,10 @@ Don't look for me on social networks. I'm not present on them.
 | Ultra-Senior level | Senior Level | Other Levels |
 | ---      | ---      | ---      |
 | BASIC    | DIY HOME | JS   |
-| QBASIC    | Play Guitar |  |
+| QBASIC    | Play Guitar | PHP |
 | Cobol    | Wooden Floors Install | AngularJS   |
 | Pascal    | Mediterranean cuisine | NodeJS   |
-| JQuery | | PHP
-| | | Cloud DevOps
+| JQuery | Super8 MovieMaker| Objective-C
+| | BBQ Builder | Cloud DevOps
 | | | ReactJS
 
