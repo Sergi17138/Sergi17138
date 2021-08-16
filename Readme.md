@@ -7,3 +7,7 @@ Don't look for me on social networks. I'm not present on them.
 - QBASIC
 - Pascal
 - Cobol
+
+| header 1 | header 2 | header 3 |
+| ---      | ---      | ---      |
+| cell 1   | cell 2   | cell 3   |
