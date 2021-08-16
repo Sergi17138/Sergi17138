@@ -4,7 +4,7 @@ Don't look for me on social networks. I'm not present on them.
 
 #### My skills on:
 
-| Ultra-Senior level | Senior Level | Other Levels |
+| Ultra-Senior Level | Senior Level | Other Levels |
 | ---      | ---      | ---      |
 | BASIC    | DIY HOME | JS   |
 | QBASIC    | Play Guitar | PHP |
@@ -12,5 +12,4 @@ Don't look for me on social networks. I'm not present on them.
 | Pascal    | Mediterranean cuisine | NodeJS   |
 | JQuery | Super8 MovieMaker| Objective-C
 | | BBQ Builder | Cloud DevOps
-| | | ReactJS
 
